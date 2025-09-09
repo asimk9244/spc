@@ -1,0 +1,39 @@
+{
+    "industryWeServe": {
+        "title": "Solutions for Every Industry",
+        "description": "SAMRON PORTABLE CABINS delivers high-quality, customizable modular solutions for a wide range of industries—including construction, corporate, mining, retail, and healthcare—offering durable, portable, and ready-to-use spaces designed for efficiency, comfort, and rapid deployment in any environment.",
+        "items": [
+            {
+                "title": "Construction / Worker & Labour Camps",
+                "description": "Modular cabins for construction and labour camps provide a complete infrastructure solution for project sites, ensuring both functionality and comfort. These structures can be used as site offices, worker accommodations, dining halls, storage facilities, or first-aid rooms. Built from durable, weather-resistant materials, they are designed to withstand harsh conditions while maintaining safety and comfort. Their portability allows for easy relocation as projects progress, while efficient layouts and insulation support productivity. With quick installation and low maintenance requirements, they reduce downtime and offer flexible options for both short-term and long-term use, making them indispensable in demanding construction environments.",
+                "thumbnail": "fa-solid fa-hard-hat",
+                "image": "/assets/images/industry_we_serve/construction_and_manufacturing.webp"
+            },
+            {
+                "title": "Commercial Office & Management Buildings",
+                "description": "Portable office and management buildings deliver modern, efficient, and customizable workspaces designed for companies of all sizes. These modular units can include executive cabins, open work areas, meeting rooms, reception spaces, and storage facilities, creating a professional environment tailored to specific needs. Built with high-quality materials, they feature lighting, climate control, internet provisions, and ergonomic layouts to ensure comfort and productivity. Their flexibility allows for quick installation and relocation, making them ideal for expanding businesses, remote project sites, or temporary operations. Combining durability with corporate appeal, these structures provide a cost-effective, scalable solution that supports dynamic business requirements with ease.",
+                "thumbnail": "fa-solid fa-building",
+                "image": "/assets/images/industry_we_serve/corporate.webp"
+            },
+            {
+                "title": "Energy and Mining Camps",
+                "description": "Energy and mining projects demand infrastructure that can endure extreme environments while offering safe and reliable facilities for personnel. Modular camps are designed to serve as accommodation units, site offices, control rooms, storage spaces, and dining halls in remote or off-grid locations. Built with strong structural integrity, thermal insulation, and essential utilities, they ensure safety, comfort, and efficiency even in harsh climates or rugged terrain. Quick installation reduces delays, while portability allows for relocation as projects expand. These camps not only support operational continuity but also provide a secure and comfortable living environment, critical for maintaining workforce productivity in challenging conditions.",
+                "thumbnail": "fa-solid fa-mountain",
+                "image": "/assets/images/industry_we_serve/mining.webp"
+            },
+            {
+                "title": "Franchise & Retail Industry",
+                "description": "Modular retail structures are a modern solution for businesses seeking visibility, mobility, and rapid setup. These units are widely used as kiosks, pop-up shops, cafés, display outlets, or franchise branches, allowing businesses to establish a strong presence in high-footfall areas. Each unit is fully customizable with branding elements, display shelving, counters, lighting, ventilation, and electrical fittings to meet operational needs. Built from durable, weather-resistant materials, they guarantee long-lasting performance while providing flexibility to relocate or expand as required. Their cost-effectiveness and quick deployment make them ideal for seasonal promotions, exhibitions, or growing retail ventures looking for a stylish, functional solution.",
+                "thumbnail": "fa-solid fa-store",
+                "image": "/assets/images/industry_we_serve/retail.webp"
+            },
+            {
+                "title": "Healthcare & Hospitals & Clinics",
+                "description": "Healthcare modular cabins provide flexible and reliable infrastructure for medical services, ranging from small clinics and diagnostic centres to isolation wards and emergency response units. Constructed with hygienic, easy-to-clean materials, they meet safety and health standards while ensuring durability and comfort. These cabins can be equipped with sinks, electrical outlets, air conditioning, lighting, and medical equipment to create a functional healthcare environment. Quick to deploy and easy to relocate, they are especially suited for rural areas, temporary expansions of existing hospitals, or disaster relief zones. Offering safety, accessibility, and efficiency, they help deliver critical healthcare services wherever they are needed.",
+                "thumbnail": "fa-solid fa-heart-pulse",
+                "image": "/assets/images/industry_we_serve/healthcare.webp"
+            }
+        ]
+    },
+    "projectsCompleted": []
+}

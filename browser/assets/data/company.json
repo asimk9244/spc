@@ -1,0 +1,69 @@
+{
+    "company": {
+        "name": "SAMRON PORTABLE CABINS",
+        "tagLine": "Complete Container Solutions",
+        "logo": "/assets/images/logo/logo.svg",
+        "logoWithName": "/assets/images/logo/logo_with_name.svg",
+        "description": "We are a trusted leader in prefabricated and container solutions, delivering 5,000+ units across 20+ states in India with quality, reliability, durability, and a strong focus on customer satisfaction.",
+        "address": "Khata No. 98/97, Urban Est Rd, Veer Savarkar Nagar, Tatibandh Chowk, Raipur, Chhattisgarh, 492099",
+        "googleAddressLink": "https://maps.app.goo.gl/VrxgNxnEEMZdiKYN9",
+        "contact": [
+            {
+                "mobile": "9241234062",
+                "whatsAppMobile": "9241234062",
+                "email": "enquiry@samroncabins.in"
+            }
+        ],
+        "copyrightInstruction": "All images and content on our site belongs to our company and their use is strictly prohibited without permission."
+    },
+    "branches": [
+        {
+            "name": "SPC Raipur Head Office",
+            "images": [
+                "https://samroncabins.in/wp-content/uploads/2025/06/portable_cover_slide_slider3.png",
+                "https://samroncabins.in/wp-content/uploads/2025/06/portable_cover_slide_slider3.png"
+            ],
+            "address": "Khata No. 98/97, Urban Est Rd, Veer Savarkar Nagar, Tatibandh Chowk, Raipur, Chhattisgarh, 492099",
+            "googleAddressLink": "https://maps.app.goo.gl/VrxgNxnEEMZdiKYN9",
+            "contact": [
+                {
+                    "mobile": "9241234062",
+                    "whatsAppMobile": "9241234062",
+                    "email": "enquiry@samroncabins.in"
+                },
+                {
+                    "mobile": "9006161888",
+                    "whatsAppMobile": "9006161888",
+                    "email": "sales@samroncabins.in"
+                }
+            ]
+        }
+    ],
+    "socials": [
+        {
+            "name": "Facebook",
+            "link": "https://www.facebook.com/samronportablecabin/",
+            "icon": "fa-brands fa-facebook-f"
+        },
+        {
+            "name": "Instagram",
+            "link": "https://www.instagram.com/samroncabins/",
+            "icon": "fa-brands fa-instagram"
+        },
+        {
+            "name": "LinkedIn",
+            "link": "https://www.linkedin.com/company/samroncabins/",
+            "icon": "fa-brands fa-linkedin-in"
+        },
+        {
+            "name": "Twitter",
+            "link": "https://x.com/samroncabins/",
+            "icon": "fa-brands fa-twitter"
+        },
+        {
+            "name": "Youtube",
+            "link": "https://www.youtube.com/@samroncabins",
+            "icon": "fa-brands fa-youtube"
+        }
+    ]
+}

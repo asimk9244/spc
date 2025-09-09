@@ -1,0 +1,83 @@
+{
+    "trustedClientsTitle": "Trusted Clients",
+    "trustedClients": [
+        {
+            "clientName": "Linde",
+            "logo": "assets/images/clients_logo/linde_logo.webp",
+            "link": "https://www.linde.com"
+        },
+        {
+            "clientName": "TATA POWER",
+            "logo": "assets/images/clients_logo/tata_power_logo.webp",
+            "link": "https://www.tatapower.com"
+        },
+        {
+            "clientName": "Coal India",
+            "logo": "assets/images/clients_logo/coal_india_logo.webp",
+            "link": "https://www.coalindia.in"
+        },
+        {
+            "clientName": "L & T",
+            "logo": "assets/images/clients_logo/larson_turbo_logo.webp",
+            "link": "https://www.larsentoubro.com"
+        },
+        {
+            "clientName": "NTPC",
+            "logo": "assets/images/clients_logo/ntpc_logo.webp",
+            "link": "https://www.ntpc.co.in"
+        },
+        {
+            "clientName": "JSW",
+            "logo": "assets/images/clients_logo/jsw_logo.webp",
+            "link": "https://www.jsw.in"
+        },
+        {
+            "clientName": "NUVCO",
+            "logo": "assets/images/clients_logo/nuvoco_logo.webp",
+            "link": ""
+        },
+        {
+            "clientName": "H.G Infra Engg.",
+            "logo": "assets/images/clients_logo/hg_infra_logo.webp",
+            "link": ""
+        }
+    ],
+    "clientsReviewsTitle": "What Our Clients Say",
+    "clientsReviews": [
+        {
+            "rating": 5,
+            "review": "Samron delivered exactly what we needed—sturdy site offices that were functional and quick to install. The cabins stood up well to rain and rough site conditions, and the team was responsive throughout the process.",
+            "reviewerName": "Rahul Mehra",
+            "reviewerPhoto": "assets/images/profile.webp",
+            "reviewerDetail": "Project Manager, Apex Construction Ltd."
+        },
+        {
+            "rating": 5,
+            "review": "We were impressed with how seamlessly Samron customized our portable office cabins. The layout, insulation, and finish exceeded our expectations. A perfect solution for our remote operations.",
+            "reviewerName": "Anjali Rao",
+            "reviewerPhoto": "assets/images/profile.webp",
+            "reviewerDetail": "Director of Operations, Stratix Solutions"
+        },
+        {
+            "rating": 5,
+            "review": "Working in remote mining areas, we needed rugged, dependable cabins—and Samron delivered. Their units were easy to relocate and handled the harsh environment without any issues.",
+            "reviewerName": "Sandeep Kulkarni",
+            "reviewerPhoto": "assets/images/profile.webp",
+            "reviewerDetail": "Field Engineer, Eastern Coalfields Ltd."
+        },
+        {
+            "rating": 5,
+            "review": "Samron’s retail cabin helped us launch our pop-up store in record time. The design was sleek, the branding on point, and it drew great footfall. Highly recommended for retail ventures.",
+            "reviewerName": "Neha Shah",
+            "reviewerPhoto": "assets/images/profile.webp",
+            "reviewerDetail": "Founder, UrbanKart Pop-up Stores"
+        },
+        {
+            "rating": 5,
+            "review": "We needed mobile testing cabins during a healthcare outreach initiative, and Samron delivered fast. The units were hygienic, well-ventilated, and fit our equipment perfectly. A dependable partner for public health services.",
+            "reviewerName": "Dr. Karan Desai",
+            "reviewerPhoto": "assets/images/profile.webp",
+            "reviewerDetail": "Program Coordinator, Lifeline Medical Trust"
+        }
+    ]
+}
