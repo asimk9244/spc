@@ -9,27 +9,27 @@
     "whyChooseUs": {
         "title": "Why you should prefer <span>SAMRON PORTABLE CABINS</span> in Prefabricated structures ?",
         "description": "We are a trusted leader in prefabricated and container solutions, delivering over 5,000 high-quality units across 20+ states in India. Known for reliability and durability, we consistently uphold the highest standards, ensuring customer satisfaction and long-term value in every project we undertake with commitment and excellence.",
-        "serviceImage": "/assets/images/why_choose_us/why_choose_us.webp",
+        "serviceImage": "assets/images/why_choose_us/why_choose_us.webp",
         "reason": [
             {
                 "title": "Customer Support",
                 "description": "We are committed to providing ongoing support and assistance to address any concerns, even after product delivery.",
-                "thumbnail": "/assets/images/why_choose_us/customer_support.webp"
+                "thumbnail": "assets/images/why_choose_us/customer_support.webp"
             },
             {
                 "title": "Vision & Mission",
                 "description": "We strive to lead in modern construction technology solutions, enhancing people's lives with innovative and quality-driven advancements daily.",
-                "thumbnail": "/assets/images/why_choose_us/vision_and_mission.webp"
+                "thumbnail": "assets/images/why_choose_us/vision_and_mission.webp"
             },
             {
                 "title": "Quality Policy",
                 "description": "We have produced over 5,000 high-quality units in various shapes and sizes, earning recognition and appreciation from our customers.",
-                "thumbnail": "/assets/images/why_choose_us/quality_policy.webp"
+                "thumbnail": "assets/images/why_choose_us/quality_policy.webp"
             },
             {
                 "title": "Corporate Value",
                 "description": "Samron has always been a values-driven organization, guided by ethics, fairness, and objectivity, principles that continue to steer our growth and success.",
-                "thumbnail": "/assets/images/why_choose_us/corporate_value.webp"
+                "thumbnail": "assets/images/why_choose_us/corporate_value.webp"
             }
         ]
     },

@@ -4,7 +4,7 @@
     "title": "Work From Anywhere",
     "description": "Portable office cabins provide flexible, cost-effective, and fully-equipped workspaces, making them ideal for temporary or remote office needs. These mobile solutions offer convenience, mobility, and quick setup, ensuring efficient work environments in various locations or on-site projects.",
     "tag": "Secure, Affordable & Quick Setup",
-    "image": "/assets/images/slides/portable_office.webp",
+    "image": "assets/images/slides/portable_office.webp",
     "action": "Explore",
     "actionLink": "/products/portable-office"
   },
@@ -13,7 +13,7 @@
     "title": "Eco-Friendly Toilets for Every Location",
     "description": "Portable toilets provide clean, convenient, and environmentally friendly sanitation ideal for use at construction sites, public events, and remote areas.",
     "tag": "Hygenic, Portable & Eco-Friendly",
-    "image": "/assets/images/slides/portable_toilet.webp",
+    "image": "assets/images/slides/portable_toilet.webp",
     "action": "Explore",
     "actionLink": "/products/portable-toilet"
   },
@@ -22,7 +22,7 @@
     "title": "Chai Corner, Cafe or Compact kitchen",
     "description": "Portable shop cabins are a smart, flexible, and cost-effective solution for setting up cafés, tea counters, or small kitchens. They’re durable, easy to move, and ideal for starting or expanding a business in various locations.",
     "tag": "Refreshment, Wherever You Go",
-    "image": "/assets/images/slides/portable_outlet.webp",
+    "image": "assets/images/slides/portable_outlet.webp",
     "action": "Explore",
     "actionLink": "/products/portable-outlet"
   },
@@ -31,7 +31,7 @@
     "title": "On-the-Go Living",
     "description": "Portable houses provide durable, customizable, and comfortable temporary accommodation for workers in remote locations, offering essential amenities, flexibility, and convenience, making them ideal for construction, mining, and remote projects.",
     "tag": "Durable, Comfortable & Customizable",
-    "image": "/assets/images/slides/portable_house.webp",
+    "image": "assets/images/slides/portable_house.webp",
     "action": "Explore",
     "actionLink": "/products/portable-house"
   },
@@ -40,7 +40,7 @@
     "title": "Your Safety, Our Mission",
     "description": "Security cabins are durable, compact, weather-resistant, and portable structures designed for effective monitoring, access control, and safety ideal for toll gates, offices, construction sites, residences, and more.",
     "tag": "Tough, Safe & Reliable",
-    "image": "/assets/images/slides/security_cabin.webp",
+    "image": "assets/images/slides/security_cabin.webp",
     "action": "Explore",
     "actionLink": "/products/security-cabin"
   },
@@ -49,7 +49,7 @@
     "title": "Storage Solutions for All Your Needs",
     "description": "Storage Cargo Containers offer secure, weather-resistant, and portable storage solutions, perfect for safely storing goods and equipment in various locations. With a lifespan of up to 100 years, they provide easy access, durability, and flexibility for diverse storage needs.",
     "tag": "Ultra-Durable, Weather-Resistant & Long Lasting",
-    "image": "/assets/images/slides/cargo_container.webp",
+    "image": "assets/images/slides/cargo_container.webp",
     "action": "Explore Categories",
     "actionLink": "/products"
   }

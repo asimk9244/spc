@@ -16,10 +16,10 @@
         ],
         "description": "Portable offices provide flexible, cost-effective workspaces for on-site and remote locations. Easy to set up and move, they ensure a comfortable, secure environment that supports efficient project management and operations.",
         "images": [
-          "/assets/images/products/portable_office/1.webp",
-          "/assets/images/products/portable_office/2.webp",
-          "/assets/images/products/portable_office/3.webp",
-          "/assets/images/products/portable_office/4.webp"
+          "assets/images/products/portable_office/1.webp",
+          "assets/images/products/portable_office/2.webp",
+          "assets/images/products/portable_office/3.webp",
+          "assets/images/products/portable_office/4.webp"
         ],
         "specifications": {
           "size": "10*10, 10*20, 20*20, & Custom Size",
@@ -53,10 +53,10 @@
         ],
         "description": "Portable toilets offer hygienic, convenient sanitation solutions for offices, construction sites, and VIP events. Designed for easy installation and maintenance, they ensure cleanliness and comfort in any temporary or remote location.",
         "images": [
-          "/assets/images/products/portable_toilet/1.webp",
-          "/assets/images/products/portable_toilet/2.webp",
-          "/assets/images/products/portable_toilet/3.webp",
-          "/assets/images/products/portable_toilet/4.webp"
+          "assets/images/products/portable_toilet/1.webp",
+          "assets/images/products/portable_toilet/2.webp",
+          "assets/images/products/portable_toilet/3.webp",
+          "assets/images/products/portable_toilet/4.webp"
         ],
         "specifications": {
           "size": "4*4, 4*6, 6*6, 10*10, & Custom Size",
@@ -91,14 +91,14 @@
         ],
         "description": "Security cabins provide secure, durable shelters for various settings like homes, toll gates, offices, construction sites, malls, and hospitals, offering protection, visibility, and comfort for personnel in diverse environments.",
         "images": [
-          "/assets/images/products/security_cabin/1.webp",
-          "/assets/images/products/security_cabin/2.webp",
-          "/assets/images/products/security_cabin/3.webp",
-          "/assets/images/products/security_cabin/4.webp",
-          "/assets/images/products/security_cabin/5.webp",
-          "/assets/images/products/security_cabin/6.webp",
-          "/assets/images/products/security_cabin/7.webp",
-          "/assets/images/products/security_cabin/8.webp"
+          "assets/images/products/security_cabin/1.webp",
+          "assets/images/products/security_cabin/2.webp",
+          "assets/images/products/security_cabin/3.webp",
+          "assets/images/products/security_cabin/4.webp",
+          "assets/images/products/security_cabin/5.webp",
+          "assets/images/products/security_cabin/6.webp",
+          "assets/images/products/security_cabin/7.webp",
+          "assets/images/products/security_cabin/8.webp"
         ],
         "specifications": {
           "size": "4*4, 4*6, 6*6, 10*10, & Custom Size",
@@ -133,10 +133,10 @@
         ],
         "description": "Portable outlets are compact, stylish, and functional units designed for businesses like chai corners, cafes, restaurants, and retail shops. They offer easy setup and mobility, perfect for attracting customers in any location.",
         "images": [
-          "/assets/images/products/portable_outlet/1.webp",
-          "/assets/images/products/portable_outlet/2.webp",
-          "/assets/images/products/portable_outlet/3.webp",
-          "/assets/images/products/portable_outlet/4.webp"
+          "assets/images/products/portable_outlet/1.webp",
+          "assets/images/products/portable_outlet/2.webp",
+          "assets/images/products/portable_outlet/3.webp",
+          "assets/images/products/portable_outlet/4.webp"
         ],
         "specifications": {
           "size": "6*8, 8*10, 10*10, 10*12 & Custom Size",
@@ -169,11 +169,11 @@
         ],
         "description": "Portable houses offer comfortable, movable living spaces like bunk houses and farm houses. Designed for durability and ease of setup, they are ideal for remote stays, recreation, or on-site accommodation.",
         "images": [
-          "/assets/images/products/portable_house/1.webp",
-          "/assets/images/products/portable_house/2.webp",
-          "/assets/images/products/portable_house/3.webp",
-          "/assets/images/products/portable_house/4.webp",
-          "/assets/images/products/portable_house/5.webp"
+          "assets/images/products/portable_house/1.webp",
+          "assets/images/products/portable_house/2.webp",
+          "assets/images/products/portable_house/3.webp",
+          "assets/images/products/portable_house/4.webp",
+          "assets/images/products/portable_house/5.webp"
         ],
         "specifications": {
           "size": "10*10, 10*20, 20*20 & Custom Size",
@@ -206,10 +206,10 @@
         ],
         "description": "Accommodation cabins provide convenient, ready-to-use living spaces for construction sites and other locations. Designed for comfort and mobility, they are ideal for worker housing or short-term accommodation in remote areas.",
         "images": [
-          "/assets/images/products/accommodation_cabin/1.webp",
-          "/assets/images/products/accommodation_cabin/2.webp",
-          "/assets/images/products/accommodation_cabin/3.webp",
-          "/assets/images/products/accommodation_cabin/4.webp"
+          "assets/images/products/accommodation_cabin/1.webp",
+          "assets/images/products/accommodation_cabin/2.webp",
+          "assets/images/products/accommodation_cabin/3.webp",
+          "assets/images/products/accommodation_cabin/4.webp"
         ],
         "specifications": {
           "size": "10*10, 10*20, 20*20 & Custom Size",
@@ -243,10 +243,10 @@
         ],
         "description": "Portable health care centres offer quick-to-deploy medical facilities like temporary hospitals, clinics, and care camps. They ensure essential health services in remote, rural, or emergency locations with safety and efficiency.",
         "images": [
-          "/assets/images/products/portable_health_care/1.webp",
-          "/assets/images/products/portable_health_care/2.webp",
-          "/assets/images/products/portable_health_care/3.webp",
-          "/assets/images/products/portable_health_care/4.webp"
+          "assets/images/products/portable_health_care/1.webp",
+          "assets/images/products/portable_health_care/2.webp",
+          "assets/images/products/portable_health_care/3.webp",
+          "assets/images/products/portable_health_care/4.webp"
         ],
         "specifications": {
           "size": "10*10, 10*20, 20*20 & Custom Size",
@@ -290,10 +290,10 @@
         ],
         "description": "Container offices are durable, mobile workspaces made from repurposed shipping containers. They offer quick setup, full customization, and a secure environment, ideal for remote sites, construction projects, and temporary office needs.",
         "images": [
-          "/assets/images/products/container_office/1.webp",
-          "/assets/images/products/container_office/2.webp",
-          "/assets/images/products/container_office/3.webp",
-          "/assets/images/products/container_office/4.webp"
+          "assets/images/products/container_office/1.webp",
+          "assets/images/products/container_office/2.webp",
+          "assets/images/products/container_office/3.webp",
+          "assets/images/products/container_office/4.webp"
         ],
         "specifications": {
           "size": "10*10, 10*20, 20*20 & Custom Size",
@@ -328,8 +328,8 @@
         ],
         "description": "Toilet containers are compact, hygienic sanitation units built from shipping containers. They provide durable, easy-to-maintain restroom facilities, perfect for construction sites, events, and remote locations requiring reliable portable toilets.",
         "images": [
-          "/assets/images/products/toilet_container/1.webp",
-          "/assets/images/products/toilet_container/2.webp"
+          "assets/images/products/toilet_container/1.webp",
+          "assets/images/products/toilet_container/2.webp"
         ],
         "specifications": {
           "size": "4*4, 4*6, 6*6, 10*10, & Custom Size",
@@ -363,10 +363,10 @@
         ],
         "description": "Container outlets are stylish, modular retail or food-service spaces built from repurposed shipping containers. They offer a modern, cost-effective, and mobile solution—quick to set up, fully customizable, and ideal for cafes, chai corners, retail shops, and more.",
         "images": [
-          "/assets/images/products/container_outlet/1.webp",
-          "/assets/images/products/container_outlet/2.webp",
-          "/assets/images/products/container_outlet/3.webp",
-          "/assets/images/products/container_outlet/4.webp"
+          "assets/images/products/container_outlet/1.webp",
+          "assets/images/products/container_outlet/2.webp",
+          "assets/images/products/container_outlet/3.webp",
+          "assets/images/products/container_outlet/4.webp"
         ],
         "specifications": {
           "size": "10*10, 10*20, 20*20 & Custom Size",
@@ -398,7 +398,7 @@
         ],
         "description": "Storage containers are sturdy, weather-resistant units made from shipping containers, ideal for secure storage of equipment, materials, and goods. They offer easy transport, durability, and protection in various industrial and commercial settings.",
         "images": [
-          "/assets/images/products/storage_container/1.webp"
+          "assets/images/products/storage_container/1.webp"
         ],
         "specifications": {
           "size": "10*10, 10*20, 20*20 & Custom Size",
@@ -432,11 +432,11 @@
         ],
         "description": "Container homes are innovative, sustainable living spaces created by converting shipping containers into comfortable, customizable houses. They offer quick construction, durability, and modern design for urban or remote living.",
         "images": [
-          "/assets/images/products/container_homes/1.webp",
-          "/assets/images/products/container_homes/2.webp",
-          "/assets/images/products/container_homes/3.webp",
-          "/assets/images/products/container_homes/4.webp",
-          "/assets/images/products/container_homes/5.webp"
+          "assets/images/products/container_homes/1.webp",
+          "assets/images/products/container_homes/2.webp",
+          "assets/images/products/container_homes/3.webp",
+          "assets/images/products/container_homes/4.webp",
+          "assets/images/products/container_homes/5.webp"
         ],
         "specifications": {
           "size": "10*10, 10*20, 20*20 & Custom Size",
@@ -470,10 +470,10 @@
         ],
         "description": "Container accommodation units are durable, mobile living spaces made from modified shipping containers. Designed for comfort and efficiency, they are ideal for worker housing, remote sites, and temporary residential needs.",
         "images": [
-          "/assets/images/products/container_accommodation/1.webp",
-          "/assets/images/products/container_accommodation/2.webp",
-          "/assets/images/products/container_accommodation/3.webp",
-          "/assets/images/products/container_accommodation/4.webp"
+          "assets/images/products/container_accommodation/1.webp",
+          "assets/images/products/container_accommodation/2.webp",
+          "assets/images/products/container_accommodation/3.webp",
+          "assets/images/products/container_accommodation/4.webp"
         ],
         "specifications": {
           "size": "10*10, 10*20, 20*20 & Custom Size",

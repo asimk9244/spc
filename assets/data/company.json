@@ -2,8 +2,8 @@
     "company": {
         "name": "SAMRON PORTABLE CABINS",
         "tagLine": "Complete Container Solutions",
-        "logo": "/assets/images/logo/logo.svg",
-        "logoWithName": "/assets/images/logo/logo_with_name.svg",
+        "logo": "assets/images/logo/logo.svg",
+        "logoWithName": "assets/images/logo/logo_with_name.svg",
         "description": "We are a trusted leader in prefabricated and container solutions, delivering 5,000+ units across 20+ states in India with quality, reliability, durability, and a strong focus on customer satisfaction.",
         "address": "Khata No. 98/97, Urban Est Rd, Veer Savarkar Nagar, Tatibandh Chowk, Raipur, Chhattisgarh, 492099",
         "googleAddressLink": "https://maps.app.goo.gl/VrxgNxnEEMZdiKYN9",
