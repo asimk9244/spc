@@ -35,5 +35,55 @@
             }
         ]
     },
-    "projectsCompleted": []
+    "projectsCompleted": [],
+    "faqs": [
+        {
+            "title": "What types of portable and container structures do you offer?",
+            "description": "We provide a wide range of prefabricated solutions, including Portable Offices, Toilets, Security Cabins, Retail Outlets, Houses, Accommodation Cabins, Healthcare Centres, and Container-based structures such as Container Offices, Container Homes, Storage Containers, and Container Restaurants. Each solution is modular, durable, and customizable to suit industries like construction, events, healthcare, education, retail, and housing."
+        },
+        {
+            "title": "What materials are used in the construction of these units?",
+            "description": "Our cabins and container structures are made from high-quality MS Steel, GI Sheet, ACP Sheet, and repurposed shipping containers. To ensure durability, walls and roofs are fitted with insulated sandwich panels. These materials provide strength, weather resistance, and long service life. Metal parts are coated to prevent rust and corrosion, while interiors can be customized with PVC, MDF, or other finishes depending on use."
+        },
+        {
+            "title": "How durable and weather-resistant are these structures?",
+            "description": "These units are built to withstand challenging conditions. They are waterproof, heat-resistant, and wind-resistant when properly anchored. Insulated wall and roof panels provide protection against temperature extremes and noise. Whether installed in remote sites, coastal areas, or urban environments, they are designed to perform reliably for years."
+        },
+        {
+            "title": "Can the size and layout be customized?",
+            "description": "Yes. Standard sizes such as 10x10, 10x20, and 20x20 feet are available, but we also create custom sizes and layouts based on client requirements. Modular designs allow for expansions, partitions, and integration with other units. This flexibility ensures each structure matches its intended purpose perfectly."
+        },
+        {
+            "title": "What industries commonly use your products?",
+            "description": "Our products are used across construction, oil & gas, mining, agriculture, healthcare, education, retail, and event management. Portable offices serve as site administration hubs, security cabins are deployed at entrances, portable toilets ensure hygiene, and retail outlets act as cafes or shops. Container homes and accommodation cabins are used for worker housing or family living, while healthcare cabins provide mobile clinics and treatment centres."
+        },
+        {
+            "title": "How is insulation, comfort, and ventilation managed?",
+            "description": "All cabins and containers are built with insulated sandwich panels that ensure excellent thermal and sound insulation. Interiors stay cooler in summer and warmer in winter. Sliding windows and secure doors allow natural ventilation, while electrical fittings support air conditioning, heating, and exhaust systems. This balance ensures energy efficiency and user comfort."
+        },
+        {
+            "title": "How are sanitation and utility needs handled?",
+            "description": "We provide Portable Toilets and Toilet Containers equipped with sealed tanks, ventilation, and optional flushing systems. Plumbing and electrical provisions are pre-installed where required, making setup quick and simple. Units can also be designed with kitchens, showers, or healthcare-specific fittings, ensuring complete functionality for diverse needs."
+        },
+        {
+            "title": "How easy is it to transport and install these structures?",
+            "description": "Our products are designed for easy transport and quick installation. Depending on size, units can be moved by truck or shipped in sea containers. Flatpack systems allow multiple cabins to be shipped together, reducing logistics costs. Installation requires only a level surface or a 10 cm thick concrete base. The units can be relocated multiple times without losing strength."
+        },
+        {
+            "title": "Do these structures require much maintenance?",
+            "description": "Maintenance needs are minimal. Routine cleaning and basic checks of fittings are usually enough. Weather-resistant materials and insulated panels reduce wear and tear, ensuring long service life. Compared to traditional buildings, these units are more cost-effective and easier to maintain."
+        },
+        {
+            "title": "What warranty or guarantee do you provide?",
+            "description": "We provide a 1-year warranty against manufacturing defects for all our products, provided they are used as per the recommended guidelines. The warranty covers structural strength and workmanship but does not apply to damage caused by misuse or poor handling."
+        },
+        {
+            "title": "Can these products be expanded or combined with others?",
+            "description": "Yes, our modular approach makes expansion simple. Units can be combined to create larger facilities. For example, an office cabin can be paired with a portable toilet, or an accommodation unit can be linked with a storage container. This allows flexible solutions that grow with project needs."
+        },
+        {
+            "title": "How cost-effective are portable and container solutions compared to traditional construction?",
+            "description": "Portable and container-based structures are faster and more affordable to deploy than conventional construction. They save on time, labor, and costs, while offering the flexibility of relocation and reuse. Their modular design allows businesses to start small and expand later, making them a cost-efficient alternative for both temporary and long-term needs."
+        }
+    ]
 }
