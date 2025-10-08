@@ -65,5 +65,27 @@
             "link": "https://www.youtube.com/@samroncabins",
             "icon": "fa-brands fa-youtube"
         }
+    ],
+    "certificates": [
+        {
+            "name": "ISO Certificate",
+            "link": "/",
+            "icon": "assets/images/certificates/iso.webp"
+        },
+        {
+            "name": "MSME Certificate",
+            "link": "/",
+            "icon": "assets/images/certificates/msme.webp"
+        },
+        {
+            "name": "Make In India",
+            "link": "/",
+            "icon": "assets/images/certificates/make_in_india.webp"
+        },
+        {
+            "name": "IndiaMART Certificate",
+            "link": "https://trustseal.indiamart.com/members/samron-portable-cabins",
+            "icon": "assets/images/certificates/indiamart.webp"
+        }
     ]
 }
