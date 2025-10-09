@@ -1,6 +1,6 @@
 [
   {
-    "name": "Iron / Steel Structures",
+    "name": "Portable Cabins",
     "description": "We design and manufacture durable steel structures using MS Steel, GI Sheet, and ACP Sheet, suitable for industrial, commercial, and temporary applications. Our solutions are modular, weather-resistant, and fully customizable to meet diverse project needs.",
     "images": [
       ""
@@ -22,10 +22,12 @@
           "assets/images/products/portable_office/4.webp"
         ],
         "videos": [
-          "https://r1---sn-cvh7kn6z.googlevideo.com/videoplayback?expire=1758203521&ei=YfLLaPOXB8Gv9fwPsbGQkAY&ip=202.65.158.178&id=59320438f11999a2&itag=18&source=picasa&begin=0&requiressl=yes&xpc=Eghoy-b0JXoBAQ==&met=1758196321,&mh=us&mm=32&mn=sn-cvh7kn6z&ms=su&mv=m&mvi=1&pl=24&rms=su,su&sc=yes&susc=ph&app=fife&ic=945&pcm2=yes&mime=video/mp4&vprv=1&prv=1&rqh=1&dur=29.860&lmt=1754028716393576&mt=1758195956&txp=0000224&sparams=expire,ei,ip,id,itag,source,requiressl,xpc,susc,app,ic,pcm2,mime,vprv,prv,rqh,dur,lmt&sig=AJfQdSswRQIgQt0rATCQxulFc_08Olb6IM6A8L2n9_qVOdKaKWsHKpMCIQCg8nEmqL0o_SbOtHUHJqmTAfOQIRj4EzThwUr_ySIb2Q==&lsparams=met,mh,mm,mn,ms,mv,mvi,pl,rms,sc&lsig=APaTxxMwRAIgdyk1UkQHf0oT42vlUAwKpvxn-BcTBS0l46N5-xooA-0CIGt2F1gPIRYqkz2tJejiOiWOnqPxgFs-wmMpX_c-_KlI",
-          "https://r1---sn-cvh76nll.googlevideo.com/videoplayback?expire=1758203395&ei=4_HLaLarAZvDssUPwJuOwAM&ip=202.65.158.178&id=8b2651ac08979c56&itag=18&source=picasa&begin=0&requiressl=yes&xpc=Eghoy-b0JXoBAQ==&met=1758196195,&mh=gF&mm=32&mn=sn-cvh76nll&ms=su&mv=m&mvi=1&pl=24&rms=su,su&sc=yes&susc=ph&app=fife&ic=945&pcm2=yes&mime=video/mp4&vprv=1&prv=1&rqh=1&dur=29.117&lmt=1748875101301949&mt=1758195723&txp=0000224&sparams=expire,ei,ip,id,itag,source,requiressl,xpc,susc,app,ic,pcm2,mime,vprv,prv,rqh,dur,lmt&sig=AJfQdSswRQIgAbb5hdEL-j1nV1Kwwcj_W-hW9lYDfYooHBN13p4543cCIQCvxXhUcVXmH6WjKIGgAJBePvfYuCoNfJUX7_2bdurAGA==&lsparams=met,mh,mm,mn,ms,mv,mvi,pl,rms,sc&lsig=APaTxxMwRAIgbmuja1nqdRVLEK5HTx2rsmVZWDTsH5mho60qDwrmE4UCIBnoZZ3_E_fX3UuS8ctuueyBvPIxzzMswTSYQ8_YU_l7",
-          "https://r2---sn-cvh7knsz.googlevideo.com/videoplayback?expire=1758203472&ei=MPLLaOfvEcHOsvsPn97W8Qw&ip=202.65.158.178&id=d4e94512c57ebf4d&itag=18&source=picasa&begin=0&requiressl=yes&xpc=Eghoy-b0JXoBAQ==&met=1758196272,&mh=u3&mm=32&mn=sn-cvh7knsz&ms=su&mv=m&mvi=2&pl=24&rms=su,su&sc=yes&susc=ph&app=fife&ic=945&pcm2=yes&mime=video/mp4&vprv=1&prv=1&rqh=1&dur=29.953&lmt=1747576879337181&mt=1758195956&txp=0000224&sparams=expire,ei,ip,id,itag,source,requiressl,xpc,susc,app,ic,pcm2,mime,vprv,prv,rqh,dur,lmt&sig=AJfQdSswRQIgZLlCgQsmbW4IbyWJ4NKCsTEWSDMvR1N4XSv7XPGkkAMCIQD2MOtxEqUbmh9FLuXH1bbeB-Jiat2sJbL5FoTiW5ErwQ==&lsparams=met,mh,mm,mn,ms,mv,mvi,pl,rms,sc&lsig=APaTxxMwRAIgK9Ik1bmVLP0dyGLV5Gza7eFqTNHHEArTDVRHiXNd1oMCIDDPKp3oGsIh-LzpiU1fMgl0uvtrc9XHjlr48k4rCzJG",
-          "https://r5---sn-cvh7kney.googlevideo.com/videoplayback?expire=1758203893&ei=1fPLaK7yJM2u9fwPoNmNoAc&ip=202.65.158.178&id=1b2e965973e0a5c1&itag=18&source=picasa&begin=0&requiressl=yes&xpc=Eghoy-b0JXoBAQ==&met=1758196693,&mh=GS&mm=32&mn=sn-cvh7kney&ms=su&mv=m&mvi=5&pl=24&rms=su,su&sc=yes&susc=ph&app=fife&ic=945&pcm2=yes&mime=video/mp4&vprv=1&prv=1&rqh=1&dur=30.093&lmt=1748876411204358&mt=1758195956&txp=0000224&sparams=expire,ei,ip,id,itag,source,requiressl,xpc,susc,app,ic,pcm2,mime,vprv,prv,rqh,dur,lmt&sig=AJfQdSswRgIhAOQWxaAl5YWQls73jF1EqYpS9Y0bSdUaepuUgVyIcdbdAiEA12IUVlCYurq0Tm7DDjBe3CvOX15SQGjdexwdHi866jQ=&lsparams=met,mh,mm,mn,ms,mv,mvi,pl,rms,sc&lsig=APaTxxMwRQIgUwXiYL6CFchfb_4bLPtPDp9wHn6Khg-MMXVcqxFX4loCIQCHxT5GHNC8q6F_n7k9dVknzhw1KFpbsKbpw0edRGab9g=="
+          "assets/videos/products/portable_office/1.mp4",
+          "assets/videos/products/portable_office/2.mp4",
+          "assets/videos/products/portable_office/3.mp4",
+          "assets/videos/products/portable_office/4.mp4",
+          "assets/videos/products/portable_office/5.mp4",
+          "assets/videos/products/portable_office/6.mp4"
         ],
         "layouts": [
           "https://www.karmod.com/media/page/konteyner-teknik-012127.jpg",
@@ -69,9 +71,8 @@
           "assets/images/products/portable_toilet/4.webp"
         ],
         "videos": [
-          "https://r1---sn-cvh7knsz.googlevideo.com/videoplayback?expire=1758203568&ei=kPLLaOWqMZyM77AP6crY-QU&ip=202.65.158.178&id=08dbd87ba813058b&itag=18&source=picasa&begin=0&requiressl=yes&xpc=Eghoy-b0JXoBAQ==&met=1758196368,&mh=TZ&mm=32&mn=sn-cvh7knsz&ms=su&mv=m&mvi=1&pl=24&rms=su,su&sc=yes&susc=ph&app=fife&ic=945&pcm2=yes&mime=video/mp4&vprv=1&prv=1&rqh=1&dur=29.930&lmt=1753100140156584&mt=1758195956&txp=0000224&sparams=expire,ei,ip,id,itag,source,requiressl,xpc,susc,app,ic,pcm2,mime,vprv,prv,rqh,dur,lmt&sig=AJfQdSswRgIhAOyp9yLv-LQKlHZyopWtz9UanKtOHO3qaHqxn1fXPlIMAiEAmr5lIJ8igugMTWupRenNd4C3boumnnnOqd008n5ZsKI=&lsparams=met,mh,mm,mn,ms,mv,mvi,pl,rms,sc&lsig=APaTxxMwRgIhAKIk39bS--vYm1iATnTXjGK95xMr3n3pUIe_tuU-OShlAiEAoAhj2Dn7rcFR8NRIBe7lI0NefqfCdbmZsQ-_i2_EznA=",
-          "https://r5---sn-cvh7kn66.googlevideo.com/videoplayback?expire=1758203666&ei=8vLLaIuVAZXGssUPktzLmA0&ip=202.65.158.178&id=110e679fc785ad79&itag=18&source=picasa&begin=0&requiressl=yes&xpc=Eghoy-b0JXoBAQ==&met=1758196466,&mh=XP&mm=32&mn=sn-cvh7kn66&ms=su&mv=m&mvi=5&pl=24&rms=su,su&sc=yes&susc=ph&app=fife&ic=945&pcm2=yes&mime=video/mp4&vprv=1&prv=1&rqh=1&dur=29.117&lmt=1748875152217353&mt=1758195956&txp=0000224&sparams=expire,ei,ip,id,itag,source,requiressl,xpc,susc,app,ic,pcm2,mime,vprv,prv,rqh,dur,lmt&sig=AJfQdSswRAIgWnl4xFRaZZE_zLRQmngfDG5AC2XAiKyFZTH_9AWV-84CIDfNemTahAWpcIlUg14JUj0bhRPEQ3iHEf3GCwKlYvpr&lsparams=met,mh,mm,mn,ms,mv,mvi,pl,rms,sc&lsig=APaTxxMwRAIgPA1w6poMcQa-5N3Ejh8qqTVH5FbyIWwC5dVSd1EmQngCIB-eSPZGMft8E5a6r4jKiFH4XXyFw36TwrdykTsdJxtA",
-          ""
+          "assets/videos/products/portable_toilet/1.mp4",
+          "assets/videos/products/portable_toilet/2.mp4"
         ],
         "layouts": [],
         "specifications": {
@@ -117,8 +118,8 @@
           "assets/images/products/security_cabin/8.webp"
         ],
         "videos": [
-          "https://r3---sn-cvh7kn66.googlevideo.com/videoplayback?expire=1758203759&ei=T_PLaLqeF7TbrtoP36SgqAo&ip=202.65.158.178&id=79f0be3b4f28acaf&itag=18&source=picasa&begin=0&requiressl=yes&xpc=Eghoy-b0JXoBAQ==&met=1758196559,&mh=pJ&mm=32&mn=sn-cvh7kn66&ms=su&mv=m&mvi=3&pl=24&rms=su,su&sc=yes&susc=ph&app=fife&ic=945&pcm2=yes&mime=video/mp4&vprv=1&prv=1&rqh=1&dur=25.356&lmt=1748878183606807&mt=1758195956&txp=0000224&sparams=expire,ei,ip,id,itag,source,requiressl,xpc,susc,app,ic,pcm2,mime,vprv,prv,rqh,dur,lmt&sig=AJfQdSswRgIhANUvRI1xconF4TgIMx0PhTz1QAaa-ZZk8Cs9U2KlOl_nAiEA0iFBJNRb_lBPpDzojG_8hcvwE_z7rXu_9RSfoDnoVTc=&lsparams=met,mh,mm,mn,ms,mv,mvi,pl,rms,sc&lsig=APaTxxMwRQIhAN4A9j0VozwjknJYKYB_BOHARzHdU331JwhFDzDOpvY3AiBuEn78egSSKxK22TYv6Psl8TtNQ57o9qUE3y6DZkT0tg==",
-          "https://r2---sn-cvh76nek.googlevideo.com/videoplayback?expire=1758203842&ei=ovPLaLyyEJvDssUPwJuOwAM&ip=202.65.158.178&id=2b18820a9514bd79&itag=18&source=picasa&begin=0&requiressl=yes&xpc=Eghoy-b0JXoBAQ==&met=1758196642,&mh=Tw&mm=32&mn=sn-cvh76nek&ms=su&mv=m&mvi=2&pl=24&rms=su,su&sc=yes&susc=ph&app=fife&ic=945&pcm2=yes&mime=video/mp4&vprv=1&prv=1&rqh=1&dur=29.535&lmt=1753100442183033&mt=1758196448&txp=0000224&sparams=expire,ei,ip,id,itag,source,requiressl,xpc,susc,app,ic,pcm2,mime,vprv,prv,rqh,dur,lmt&sig=AJfQdSswRgIhAKsO9jwKsWcGBsIrYMwN80Ff7LBsN3xk7l0L2xtx4545AiEAsXhNmjQP8GWE7xkvdRhv2UnN7IeaQxJehkmx1F_P90E=&lsparams=met,mh,mm,mn,ms,mv,mvi,pl,rms,sc&lsig=APaTxxMwRAIgYRJQj7aaVML0WreRFdOEMpmFbCl9nTlpzf3o-bdAwtACIGrVfs_exZbb_q-rOsx7nVfD5SIo3NiljznYXcN7-b41"
+          "assets/videos/products/security_cabin/1.mp4",
+          "assets/videos/products/security_cabin/2.mp4"
         ],
         "layouts": [],
         "specifications": {
@@ -237,7 +238,7 @@
           "assets/images/products/accommodation_cabin/4.webp"
         ],
         "videos": [
-          "https://r5---sn-cvh7knzr.googlevideo.com/videoplayback?expire=1758203624&ei=yPLLaJOgDLmc4t4Po5_A2Qc&ip=202.65.158.178&id=0c6c2c2a2ffbf5e1&itag=18&source=picasa&begin=0&requiressl=yes&xpc=Eghoy-b0JXoBAQ==&met=1758196424,&mh=Gv&mm=32&mn=sn-cvh7knzr&ms=su&mv=m&mvi=5&pl=24&rms=su,su&sc=yes&susc=ph&app=fife&ic=945&pcm2=yes&mime=video/mp4&vprv=1&prv=1&rqh=1&dur=30.023&lmt=1748877154225195&mt=1758195956&txp=0000224&sparams=expire,ei,ip,id,itag,source,requiressl,xpc,susc,app,ic,pcm2,mime,vprv,prv,rqh,dur,lmt&sig=AJfQdSswRgIhAL0Hea0tAzwI3nmQwFPRu_rWk0UdSmX1F2ZLfrn7nIc4AiEArf_Z_7q0PYMt8bpic2lPPR12_mwV1vF6-buhMEJ3rNg=&lsparams=met,mh,mm,mn,ms,mv,mvi,pl,rms,sc&lsig=APaTxxMwRQIhAPLLjVdYA_KM2OiVSm7Nrulj-spZb9vyX43mvH_g_EjtAiAev8TYWt8bu89UgRgl-EGC0CuGM8JvzhUMaFC7JSVhfw=="
+          "assets/videos/products/accommodation_cabin/1.mp4"
         ],
         "layouts": [],
         "specifications": {
@@ -304,8 +305,8 @@
     ]
   },
   {
-    "name": "Cargo Container Structures",
-    "description": "Container structures are durable, mobile, and versatile spaces made from shipping containers. Ideal for offices, homes, toilets, storage, and restaurants, they offer quick setup, customization, and long-lasting performance in any environment.",
+    "name": "Portable Containers",
+    "description": "Portable Containers are durable, mobile, and versatile spaces fabricated using high-quality MS Steel, GI Sheet, and ACP Sheet. Ideal for offices, homes, toilets, storage, and restaurants, they offer quick setup, full customization, and long-lasting performance in any environment.",
     "images": [
       ""
     ],
@@ -316,10 +317,10 @@
         "tags": [
           "Portable Office",
           "Portable Office Cabin",
-          "Site Office cabin",
+          "Site Office Cabin",
           "Temporary Office Cabin"
         ],
-        "description": "Container offices are durable, mobile workspaces made from repurposed shipping containers. They offer quick setup, full customization, and a secure environment, ideal for remote sites, construction projects, and temporary office needs.",
+        "description": "Container offices are durable, mobile workspaces fabricated using MS Steel, GI Sheet, and ACP Sheet. They offer quick setup, complete customization, and a secure environment—ideal for construction projects, remote sites, or temporary office needs.",
         "images": [
           "assets/images/products/container_office/1.webp",
           "assets/images/products/container_office/2.webp",
@@ -330,22 +331,22 @@
         "layouts": [],
         "specifications": {
           "size": "10*10, 10*20, 20*20 & Custom Size",
-          "material": "Shipping Container",
+          "material": "MS Steel, GI Sheet, ACP Sheet",
           "usage": "Construction Site Office, Temporary Office, Remote Workspaces, etc...",
           "features": "Durable, Mobile, Customizable"
         },
         "details": [
           {
             "title": "Container Offices – Strong, Mobile Workspaces",
-            "description": "Container offices transform repurposed shipping containers into durable, modular workspaces for remote sites, construction projects, or temporary offices. Built with sturdy steel frames, insulated interiors, and customizable layouts, these offices offer secure, weatherproof, and mobile solutions. They can be equipped with lighting, air conditioning, electrical systems, desks, and communication equipment, delivering the functionality of a conventional office with mobility and cost efficiency. For additional flexibility, container offices can be combined with <a href='products/portable-office'>Portable Offices</a> or <a href='products/container-accommodation'>Container Accommodation</a> units, creating larger operational setups, workforce support, or temporary office blocks, ideal for construction sites, industrial campuses, or event management."
+            "description": "Container offices are robust, modular workspaces designed for remote sites, construction projects, and temporary office setups. Built with steel frames, insulated interiors, and customizable layouts, these offices provide a secure, weatherproof, and comfortable environment. They can include lighting, air conditioning, electrical systems, furniture, and other facilities for a fully functional office setup. For flexible site configurations, container offices can be combined with <a href='products/portable-office'>Portable Offices</a> or <a href='products/container-accommodation'>Container Accommodation</a> units."
           },
           {
             "title": "Features and Advantages",
-            "description": "These offices are designed for rapid deployment, modular configurations, and low-maintenance operation. Insulated walls and roofing maintain comfortable working conditions in extreme climates, while electrical fittings, lighting, and HVAC support all modern office functions. The units are durable, secure, and easily relocatable, providing long-term value for changing project needs. Prefabricated exterior and interior finishes allow branding, aesthetics, and customization for specific operational requirements. Container offices combine practicality, durability, and convenience, offering a modern alternative to traditional construction while maintaining mobility and efficiency."
+            "description": "These offices are designed for rapid deployment, modular expansion, and minimal maintenance. Insulated panels maintain comfort in all climates, while electrical and HVAC fittings support modern operations. The units are secure, durable, and easily relocatable—ideal for evolving project needs. Interiors and exteriors can be customized for branding, layout, or functionality."
           },
           {
             "title": "Applications Across Industries",
-            "description": "Container offices are widely used in construction, mining, oil & gas, disaster relief, and remote project management. Their mobility and modularity make them suitable for temporary or seasonal requirements, including on-site administration, staff accommodation, or office expansion. Integration with <a href='products/portable-office'>Portable Offices</a> or <a href='products/container-accommodation'>Container Accommodation</a> units provides scalable solutions for larger workforces, ensuring seamless operations and productivity. These offices provide a professional, safe, and efficient workspace in any temporary or remote environment."
+            "description": "Container offices are widely used in construction, industrial, event, and project-based environments. Their mobility and modularity make them ideal for administrative or operational use in temporary or remote locations. Integration with <a href='products/portable-office'>Portable Offices</a> or <a href='products/container-accommodation'>Container Accommodation</a> provides scalable workspace solutions."
           }
         ],
         "technicalSpecifications": []
@@ -359,7 +360,7 @@
           "Portable Toilet Cabin",
           "ACP Toilet Cabin"
         ],
-        "description": "Toilet containers are compact, hygienic sanitation units built from shipping containers. They provide durable, easy-to-maintain restroom facilities, perfect for construction sites, events, and remote locations requiring reliable portable toilets.",
+        "description": "Toilet containers are compact, hygienic sanitation units built with MS Steel, GI Sheet, or ACP Sheet. They provide durable, easy-to-maintain restroom facilities—perfect for construction sites, events, and remote locations.",
         "images": [
           "assets/images/products/toilet_container/1.webp",
           "assets/images/products/toilet_container/2.webp"
@@ -367,23 +368,23 @@
         "videos": [],
         "layouts": [],
         "specifications": {
-          "size": "4*4, 4*6, 6*6, 10*10, & Custom Size",
-          "material": "Shipping Container",
+          "size": "4*4, 4*6, 6*6, 10*10 & Custom Size",
+          "material": "MS Steel, GI Sheet, ACP Sheet",
           "usage": "Construction Site Toilet, Event Restrooms, Remote Sanitation Facilities, etc...",
           "features": "Hygienic, Durable, Portable"
         },
         "details": [
           {
             "title": "Toilet Containers – Hygienic, Mobile Sanitation Solutions",
-            "description": "Toilet containers provide reliable and hygienic sanitation for construction sites, outdoor events, and remote locations. Built from durable shipping containers with steel frames and waterproof interiors, these units ensure clean, accessible, and mobile restroom facilities. Each cabin can be equipped with washbasins, urinals, ventilation systems, and optional lighting for comfort and usability. Designed for rapid deployment and low maintenance, they are ideal for temporary or relocatable sanitation needs. For integrated site solutions, toilet containers can be paired with <a href='products/portable-toilet'>Portable Toilets</a> for smaller setups or <a href='products/container-accommodation'>Container Accommodation</a> units to support workforce hygiene and residential needs."
+            "description": "Toilet containers provide reliable and hygienic sanitation for construction sites, events, and remote locations. Built with corrosion-resistant steel and waterproof interiors, these units ensure comfort and cleanliness. They can include washbasins, urinals, ventilation, and lighting as needed. Designed for rapid deployment and low maintenance, they are ideal for temporary or relocatable sanitation setups."
           },
           {
             "title": "Key Features and Benefits",
-            "description": "Toilet containers are weatherproof, insulated, and designed for all-season usability. Their sealed construction prevents odor and moisture issues, while modular interiors allow for male/female sections, accessible stalls, and partitions. Electrical fittings can support lighting and exhaust fans. The cabins are relocatable, reusable, and compliant with health standards, providing practical and cost-effective sanitation solutions. The combination of durability, hygiene, and mobility ensures reliability for long-term or temporary projects."
+            "description": "Weatherproof, insulated, and odor-free, these toilets feature modular interiors that can include male/female sections, partitions, or accessible stalls. Optional lighting and exhaust systems improve usability, while their portability and reusability make them practical and cost-efficient."
           },
           {
             "title": "Applications Across Industries",
-            "description": "These sanitation units are widely used in construction camps, industrial sites, festivals, disaster-relief zones, and remote projects. They provide essential restroom facilities wherever permanent infrastructure is unavailable. Integration with <a href='products/portable-toilet'>Portable Toilets</a> or <a href='products/container-accommodation'>Container Accommodation</a> ensures comprehensive hygiene and sanitation solutions for workers, staff, and visitors. By combining mobility, durability, and practicality, toilet containers maintain health standards and convenience in diverse operational environments."
+            "description": "Widely used in construction camps, industrial sites, public events, and emergency setups, these sanitation units provide essential hygiene wherever permanent infrastructure is unavailable. They can also be paired with <a href='products/container-accommodation'>Container Accommodation</a> for integrated housing and hygiene solutions."
           }
         ],
         "technicalSpecifications": []
@@ -396,7 +397,7 @@
           "Portable Outlet",
           "Portable Restaurant"
         ],
-        "description": "Container outlets are stylish, modular retail or food-service spaces built from repurposed shipping containers. They offer a modern, cost-effective, and mobile solution—quick to set up, fully customizable, and ideal for cafes, chai corners, retail shops, and more.",
+        "description": "Container outlets are stylish, modular spaces designed for cafes, retail shops, or restaurants. Built with durable MS Steel, GI Sheet, and ACP Sheet, they provide a cost-effective, portable, and customizable commercial setup.",
         "images": [
           "assets/images/products/container_outlet/1.webp",
           "assets/images/products/container_outlet/2.webp",
@@ -407,22 +408,22 @@
         "layouts": [],
         "specifications": {
           "size": "10*10, 10*20, 20*20 & Custom Size",
-          "material": "Shipping Container",
+          "material": "MS Steel, GI Sheet, ACP Sheet",
           "usage": "Cafe Corner, Chai Shop, Restaurants, Retail Stores, etc...",
           "features": "Portable, Stylish, Affordable"
         },
         "details": [
           {
             "title": "Container Outlets – Modern, Mobile Retail Spaces",
-            "description": "Container outlets convert shipping containers into functional, stylish retail or food-service units, perfect for cafes, pop-up shops, or restaurants. The modular design allows for rapid setup, relocation, and full customization of interiors and exteriors. Built with durable steel, insulated walls, and weatherproof exteriors, these units provide long-lasting performance while supporting branding and customer engagement. For expanded or complementary setups, container outlets can be paired with <a href='products/portable-outlet'>Portable Outlets</a> for additional mobility or <a href='products/container-accommodation'>Container Accommodation</a> for staff and operational support, creating an efficient, scalable business environment."
+            "description": "Container outlets are modern, modular spaces perfect for cafes, kiosks, or retail stores. Their design allows quick setup, mobility, and full customization. Built with weatherproof steel and insulated walls, they offer durability, style, and operational flexibility."
           },
           {
             "title": "Features and Advantages",
-            "description": "These outlets include counters, shelving, electrical and plumbing setups, and lighting, enabling fully operational retail or food-service spaces. Compact and relocatable, they allow businesses to adapt to changing locations and markets without large capital investments. Weatherproof construction ensures year-round operation, while customization options let businesses implement branding, signage, and interior layouts that enhance customer experience. The combination of portability, durability, and modern design makes container outlets ideal for startups, seasonal ventures, and temporary business expansion."
+            "description": "These outlets can include service counters, electrical systems, lighting, plumbing, and shelves. Their portability makes them perfect for temporary markets, exhibitions, or expanding retail businesses. The exteriors can be branded to enhance visual appeal."
           },
           {
             "title": "Applications Across Industries",
-            "description": "Container outlets are widely used in urban and rural areas, tourism spots, events, and exhibition setups. Their mobility and modularity allow entrepreneurs, restaurants, and retail businesses to quickly reach new markets. By integrating with <a href='products/portable-outlet'>Portable Outlets</a> or <a href='products/container-accommodation'>Container Accommodation</a>, businesses can provide comprehensive services including staff lodging, storage, and office support. These outlets offer a versatile, cost-effective, and professional solution for modern retail and food-service needs in temporary or changing locations."
+            "description": "Ideal for urban pop-ups, food courts, tourism zones, and events. These units can be integrated with <a href='products/container-accommodation'>Container Accommodation</a> for staff lodging or <a href='products/portable-outlet'>Portable Outlets</a> for scalable retail setups."
           }
         ],
         "technicalSpecifications": []
@@ -433,32 +434,30 @@
         "tags": [
           "Portable Storage Cabin"
         ],
-        "description": "Storage containers are sturdy, weather-resistant units made from shipping containers, ideal for secure storage of equipment, materials, and goods. They offer easy transport, durability, and protection in various industrial and commercial settings.",
+        "description": "Storage containers are robust, weather-resistant units fabricated using MS Steel, GI Sheet, and ACP Sheet—ideal for safely storing materials, tools, and goods in industrial and commercial environments.",
         "images": [
           "assets/images/products/storage_container/1.webp"
         ],
-        "videos": [
-          "https://r1---sn-npoe7nsr.googlevideo.com/videoplayback?expire=1758203790&ei=bvPLaMqLFOXKssUP08668AY&ip=202.65.158.178&id=08dc345db4db84e5&itag=18&source=picasa&begin=0&requiressl=yes&xpc=Eghoy-b0JXoBAQ==&rms=su,su&sc=yes&susc=ph&app=fife&ic=945&pcm2=yes&mime=video/mp4&vprv=1&prv=1&rqh=1&dur=29.141&lmt=1747576882444739&txp=0000224&sparams=expire,ei,ip,id,itag,source,requiressl,xpc,susc,app,ic,pcm2,mime,vprv,prv,rqh,dur,lmt&sig=AJfQdSswRgIhAOxkESUjcOcw1HPo_5h9KAGlvVezklOi-Ta1mNuPkB2mAiEA7547-tmJeABBuzduI5308bsJ9vtq101ukG1TqXfH7pY=&redirect_counter=1&rm=sn-cvhs77e&rrc=13&fexp=24350590,24350737,24350827,24352157,24352568,24352574&req_id=c08fb18479efa3ee&cms_redirect=yes&cmsv=e&met=1758196590,&mh=YO&mm=34&mn=sn-npoe7nsr&ms=ltu&mt=1758196411&mv=m&mvi=1&pl=24&lsparams=met,mh,mm,mn,ms,mv,mvi,pl,rms,sc&lsig=APaTxxMwRQIhANVda54r6BrhLMaEeemEaEJeL4jfwtlJGJA6-8cQDwnhAiBffOgi_tJRkNkaD5OqoDhRpyk67K_5--Bxdjj8y2XImA%3D%3D"
-        ],
+        "videos": [],
         "layouts": [],
         "specifications": {
           "size": "10*10, 10*20, 20*20 & Custom Size",
-          "material": "Shipping Container",
+          "material": "MS Steel, GI Sheet, ACP Sheet",
           "usage": "Storage, Warehouse, Inventory Management, etc...",
           "features": "Secure, Portable, Durable"
         },
         "details": [
           {
             "title": "Storage Containers – Durable and Secure Storage Solutions",
-            "description": "Storage containers are robust units repurposed from shipping containers to provide secure, weatherproof storage for equipment, materials, and inventory. Designed for industrial, commercial, and remote site use, these containers are durable, relocatable, and easy to maintain. Their modular design allows customization for shelving, partitions, or specialized storage needs. For complete site solutions, storage containers can be integrated with <a href='products/container-accommodation'>Container Accommodation</a> for onsite workforce storage and management, or with <a href='products/portable-outlet'>Portable Outlets</a> to support retail or operational setups that require secure material storage."
+            "description": "Storage containers are built for reliable protection of equipment, inventory, and materials. Their modular structure allows for customized interiors like racks, partitions, or reinforced sections for heavy items. They ensure secure and weatherproof storage for diverse industries."
           },
           {
             "title": "Features and Benefits",
-            "description": "Constructed with high-grade steel, storage containers are resistant to rust, water, and dust, ensuring long-term durability. Lockable doors provide security, while optional ventilation systems prevent condensation and maintain air circulation. Their mobility allows easy transport and relocation, supporting temporary projects, seasonal operations, or growing businesses. Prefabricated interiors enable racks, shelves, or equipment mounts, catering to diverse industrial, commercial, or agricultural storage requirements. By combining portability, security, and modular design, storage containers provide a reliable solution for asset protection and operational efficiency."
+            "description": "Built with corrosion-resistant steel, these units include lockable doors, ventilation, and optional shelving. They are easy to relocate, maintain, and expand, making them ideal for temporary or long-term use in industrial, commercial, or agricultural operations."
           },
           {
             "title": "Applications Across Industries",
-            "description": "Storage containers are widely used in construction sites, warehouses, farms, retail setups, and industrial facilities. They provide flexible storage solutions for raw materials, finished products, and equipment, adapting to changing project needs. Integration with <a href='products/container-accommodation'>Container Accommodation</a> or <a href='products/portable-outlet'>Portable Outlets</a> allows for comprehensive operational setups, combining secure storage with office, retail, or residential support. Their durability, mobility, and versatility make them indispensable for modern businesses, project sites, and remote operations."
+            "description": "Commonly used in construction sites, warehouses, farms, and industrial zones, storage containers provide flexible and safe solutions for storing raw materials and equipment. They can be combined with <a href='products/container-accommodation'>Container Accommodation</a> for integrated site setups."
           }
         ],
         "technicalSpecifications": []
@@ -471,7 +470,7 @@
           "Farm House",
           "Bunk House"
         ],
-        "description": "Container homes are innovative, sustainable living spaces created by converting shipping containers into comfortable, customizable houses. They offer quick construction, durability, and modern design for urban or remote living.",
+        "description": "Container homes are innovative, sustainable living spaces fabricated from MS Steel, GI Sheet, and ACP Sheet. They provide durable, modern, and eco-friendly housing suitable for urban, rural, or remote use.",
         "images": [
           "assets/images/products/container_homes/1.webp",
           "assets/images/products/container_homes/2.webp",
@@ -483,22 +482,22 @@
         "layouts": [],
         "specifications": {
           "size": "10*10, 10*20, 20*20 & Custom Size",
-          "material": "Shipping Container",
+          "material": "MS Steel, GI Sheet, ACP Sheet",
           "usage": "Farm Houses, Bunk Houses, Vacation Homes, etc...",
           "features": "Eco-Friendly, Durable, Modern"
         },
         "details": [
           {
             "title": "Container Homes – Modern, Sustainable Living",
-            "description": "Container homes transform shipping containers into stylish, durable, and eco-friendly residences suitable for urban, rural, or remote areas. Designed with insulated interiors, modular layouts, and modern fittings, these homes provide a comfortable living environment while maintaining mobility and sustainability. They can include bedrooms, kitchens, bathrooms, and living spaces, offering complete functionality comparable to conventional housing. For expanded or complementary setups, container homes can be integrated with <a href='products/portable-house'>Portable Houses</a> to create larger living or vacation complexes, or with <a href='products/container-accommodation'>Container Accommodation</a> for workforce or temporary residential support, providing flexible and practical solutions for modern living needs."
+            "description": "Container homes are durable and customizable residential structures offering modern aesthetics and efficient layouts. They can include bedrooms, kitchens, bathrooms, and living areas for a comfortable lifestyle. These homes combine structural strength with flexibility and style."
           },
           {
             "title": "Key Features and Benefits",
-            "description": "These homes feature high-grade steel construction, insulated walls and roofing, plumbing, electrical systems, and customizable interiors. Prefabricated modular design enables quick assembly and relocation, making them ideal for seasonal or temporary use. Weatherproof and durable, container homes offer long-lasting comfort with minimal maintenance. Their versatility allows for expansion through additional units, and interiors can be designed to suit personal, commercial, or hospitality requirements. Mobility, sustainability, and cost-efficiency make them a smart alternative to traditional housing."
+            "description": "Featuring insulated walls, roofing, plumbing, and electrical systems, these homes are designed for comfort and longevity. Prefabricated modules allow fast assembly and relocation. Their versatility supports residential, commercial, or hospitality use."
           },
           {
             "title": "Applications Across Lifestyles",
-            "description": "Container homes are used for farm retreats, vacation houses, rental cabins, staff accommodations, and eco-tourism projects. They provide adaptable living solutions in urban or remote settings, combining comfort, mobility, and modern design. By pairing with <a href='products/portable-house'>Portable Houses</a> or <a href='products/container-accommodation'>Container Accommodation</a>, users can create larger housing clusters or integrate temporary living with operational support. These homes offer a flexible, affordable, and sustainable housing option suitable for diverse lifestyle and industrial applications."
+            "description": "Container homes serve as farm retreats, vacation stays, rental cabins, and eco-tourism housing. They can be combined with <a href='products/container-accommodation'>Container Accommodation</a> for larger setups or workforce housing."
           }
         ],
         "technicalSpecifications": []
@@ -509,9 +508,9 @@
         "tags": [
           "Accommodation Cabin",
           "Portable Accommodation Cabin",
-          "Construction Accomodation Cabin"
+          "Construction Accommodation Cabin"
         ],
-        "description": "Container accommodation units are durable, mobile living spaces made from modified shipping containers. Designed for comfort and efficiency, they are ideal for worker housing, remote sites, and temporary residential needs.",
+        "description": "Container accommodation units are durable, portable living spaces fabricated using MS Steel, GI Sheet, and ACP Sheet. Designed for comfort and mobility, they are ideal for worker housing, remote sites, and temporary residential setups.",
         "images": [
           "assets/images/products/container_accommodation/1.webp",
           "assets/images/products/container_accommodation/2.webp",
@@ -522,22 +521,22 @@
         "layouts": [],
         "specifications": {
           "size": "10*10, 10*20, 20*20 & Custom Size",
-          "material": "Shipping Container",
+          "material": "MS Steel, GI Sheet, ACP Sheet",
           "usage": "Worker Housing, Remote Accommodation, Emergency Shelters, etc...",
           "features": "Durable, Comfortable, Reusable"
         },
         "details": [
           {
             "title": "Container Accommodation – Flexible, Mobile Housing Solutions",
-            "description": "Container accommodation units transform shipping containers into secure, comfortable, and portable living spaces suitable for construction sites, remote projects, and emergency deployments. Equipped with insulated walls, electrical and plumbing systems, and climate control options, these units provide a home-like environment even in challenging conditions. Their modular design allows easy expansion into multi-unit blocks for larger teams or communities. For complete site integration, container accommodations can be paired with <a href='products/accommodation-cabin'>Accommodation Cabins</a> for additional housing or with <a href='products/storage-container'>Storage Containers</a> to provide secure onsite storage, ensuring an efficient and self-sufficient setup."
+            "description": "Container accommodation units are modular living spaces providing comfort and functionality in remote or temporary locations. They feature insulated walls, electrical fittings, plumbing, and air-conditioning options to ensure a home-like experience."
           },
           {
             "title": "Key Features and Benefits",
-            "description": "These units are weatherproof, insulated, and designed for long-term durability. Prefabricated interiors allow for customization with single or multi-room layouts, kitchens, bathrooms, or executive furnishings. Electrical and plumbing systems come pre-installed for quick deployment. Mobility and reusability make them ideal for temporary or rotating workforces, minimizing downtime and infrastructure costs. Container accommodations offer cost-effective, practical, and reliable housing solutions that maintain comfort and operational efficiency across diverse industries."
+            "description": "Weatherproof, insulated, and customizable, these units are designed for long-term use. Prefabricated layouts can include bedrooms, kitchens, or washrooms. They are reusable, easy to relocate, and perfect for workforce housing or project sites."
           },
           {
             "title": "Applications Across Industries",
-            "description": "Container accommodations are widely used for workforce housing in construction, mining, oil & gas, agriculture, and research projects. They also serve as temporary residential solutions in disaster relief, emergency response, and event management. Integration with <a href='products/accommodation-cabin'>Accommodation Cabins</a> or <a href='products/storage-container'>Storage Containers</a> provides comprehensive operational setups, combining comfortable living with storage and workspace support. Their durability, portability, and adaptability make them an ideal choice for modern industrial and commercial housing requirements."
+            "description": "Widely used in construction, oil & gas, mining, and agriculture sectors for staff accommodation or emergency housing. They can be combined with <a href='products/storage-container'>Storage Containers</a> or <a href='products/portable-office'>Portable Offices</a> for complete site setups."
           }
         ],
         "technicalSpecifications": []
