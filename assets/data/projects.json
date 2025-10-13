@@ -4,16 +4,16 @@
         "description": "SAMRON PORTABLE CABINS delivers high-quality, customizable modular solutions for a wide range of industries—including construction, corporate, mining, retail, and healthcare—offering durable, portable, and ready-to-use spaces designed for efficiency, comfort, and rapid deployment in any environment.",
         "items": [
             {
-                "title": "Construction / Worker & Labour Camps",
-                "description": "Modular cabins for construction and labour camps provide a complete infrastructure solution for project sites, ensuring both functionality and comfort. These structures can be used as site offices, worker accommodations, dining halls, storage facilities, or first-aid rooms. Built from durable, weather-resistant materials, they are designed to withstand harsh conditions while maintaining safety and comfort. Their portability allows for easy relocation as projects progress, while efficient layouts and insulation support productivity. With quick installation and low maintenance requirements, they reduce downtime and offer flexible options for both short-term and long-term use, making them indispensable in demanding construction environments.",
-                "thumbnail": "fa-solid fa-hard-hat",
-                "image": "assets/images/industry_we_serve/construction_and_manufacturing.webp"
-            },
-            {
                 "title": "Commercial Office & Management Buildings",
                 "description": "Portable office and management buildings deliver modern, efficient, and customizable workspaces designed for companies of all sizes. These modular units can include executive cabins, open work areas, meeting rooms, reception spaces, and storage facilities, creating a professional environment tailored to specific needs. Built with high-quality materials, they feature lighting, climate control, internet provisions, and ergonomic layouts to ensure comfort and productivity. Their flexibility allows for quick installation and relocation, making them ideal for expanding businesses, remote project sites, or temporary operations. Combining durability with corporate appeal, these structures provide a cost-effective, scalable solution that supports dynamic business requirements with ease.",
                 "thumbnail": "fa-solid fa-building",
                 "image": "assets/images/industry_we_serve/corporate.webp"
+            },
+            {
+                "title": "Construction / Worker & Labour Camps",
+                "description": "Modular cabins for construction and labour camps provide a complete infrastructure solution for project sites, ensuring both functionality and comfort. These structures can be used as site offices, worker accommodations, dining halls, storage facilities, or first-aid rooms. Built from durable, weather-resistant materials, they are designed to withstand harsh conditions while maintaining safety and comfort. Their portability allows for easy relocation as projects progress, while efficient layouts and insulation support productivity. With quick installation and low maintenance requirements, they reduce downtime and offer flexible options for both short-term and long-term use, making them indispensable in demanding construction environments.",
+                "thumbnail": "fa-solid fa-hard-hat",
+                "image": "assets/images/industry_we_serve/construction_and_manufacturing.webp"
             },
             {
                 "title": "Energy and Mining Camps",
@@ -38,12 +38,12 @@
     "projectsCompleted": [],
     "faqs": [
         {
-            "title": "What types of portable and container structures do you offer?",
-            "description": "We provide a wide range of prefabricated solutions, including Portable Offices, Toilets, Security Cabins, Retail Outlets, Houses, Accommodation Cabins, Healthcare Centres, and Container-based structures such as Container Offices, Container Homes, Storage Containers, and Container Restaurants. Each solution is modular, durable, and customizable to suit industries like construction, events, healthcare, education, retail, and housing."
+            "title": "What are Portable Containers and what do you offer?",
+            "description": "Our Portable Containers are built in-house using high-quality MS Steel, GI Sheet, and ACP Sheet. We offer solutions such as Portable Offices, Portable Toilets, Security Cabins, Portable Outlets, Portable Houses, Accommodation Cabins, and Portable Health Care Centres. Each unit is modular, durable, and customizable to suit industries like construction, events, healthcare, education, and remote site operations."
         },
         {
-            "title": "What materials are used in the construction of these units?",
-            "description": "Our cabins and container structures are made from high-quality MS Steel, GI Sheet, ACP Sheet, and repurposed shipping containers. To ensure durability, walls and roofs are fitted with insulated sandwich panels. These materials provide strength, weather resistance, and long service life. Metal parts are coated to prevent rust and corrosion, while interiors can be customized with PVC, MDF, or other finishes depending on use."
+            "title": "What are Shipping Containers and what do you offer?",
+            "description": "Our Shipping Containers are imported repurposed containers used primarily for storage purposes. We provide Storage Containers, Cold Storage Containers, Cement Storage Containers, Equipment Storage Containers, and Industrial Storage Containers. These solutions are robust, modular, and ideal for construction sites, warehouses, logistics operations, and industrial storage needs."
         },
         {
             "title": "How durable and weather-resistant are these structures?",
@@ -59,7 +59,7 @@
         },
         {
             "title": "How is insulation, comfort, and ventilation managed?",
-            "description": "All cabins and containers are built with insulated sandwich panels that ensure excellent thermal and sound insulation. Interiors stay cooler in summer and warmer in winter. Sliding windows and secure doors allow natural ventilation, while electrical fittings support air conditioning, heating, and exhaust systems. This balance ensures energy efficiency and user comfort."
+            "description": "All cabins and containers are designed to provide excellent thermal and sound insulation, keeping interiors cooler in summer and warmer in winter. Sliding windows and secure doors allow natural ventilation, while electrical fittings support air conditioning, heating, and exhaust systems. This combination ensures energy efficiency and user comfort."
         },
         {
             "title": "How are sanitation and utility needs handled?",
@@ -67,7 +67,7 @@
         },
         {
             "title": "How easy is it to transport and install these structures?",
-            "description": "Our products are designed for easy transport and quick installation. Depending on size, units can be moved by truck or shipped in sea containers. Flatpack systems allow multiple cabins to be shipped together, reducing logistics costs. Installation requires only a level surface or a 10 cm thick concrete base. The units can be relocated multiple times without losing strength."
+            "description": "Our products are designed for easy transport and quick installation. Depending on size, units can be moved by truck and unloaded using cranes or JCBs. Installation requires only a level surface or a 10 cm thick concrete base. The units can be relocated multiple times without losing strength."
         },
         {
             "title": "Do these structures require much maintenance?",

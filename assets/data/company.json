@@ -81,11 +81,6 @@
             "name": "Make In India",
             "link": "/",
             "icon": "assets/images/certificates/make_in_india.webp"
-        },
-        {
-            "name": "IndiaMART Certificate",
-            "link": "https://trustseal.indiamart.com/members/samron-portable-cabins",
-            "icon": "assets/images/certificates/indiamart.webp"
         }
     ]
 }
